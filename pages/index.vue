@@ -5,7 +5,8 @@
     <hr>
     <pre>[{{now}}]</pre>
     <hr>
-    <router-link to="/other">Go to Other</router-link>
+    <router-link to="/other">Go to Other</router-link><br>
+    <router-link to="/transition01">トランジション サンプル01</router-link>
   </section>
 </template>
 
@@ -13,8 +14,8 @@
 export default {
   data: function(){
     return {
-      title:'Hello',
-      message: 'this is message.',
+      title:'Vue.js デモ',
+      message: '動作確認用のコード',
       now: 'wait...',
     };
   },
