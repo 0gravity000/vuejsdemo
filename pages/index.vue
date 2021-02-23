@@ -8,6 +8,9 @@
     <router-link to="/other">Go to Other</router-link><br>
     <router-link to="/transition01">トランジション サンプル01</router-link><br>
     <router-link to="/event01">イベント サンプル01</router-link><br>
+    <router-link to="/transform-translate01">トランスフォーム(translate) サンプル01</router-link><br>
+    <router-link to="/transform-scale01">トランスフォーム(scale) サンプル01</router-link><br>
+    <router-link to="/transform-rotate01">トランスフォーム(rotate) サンプル01</router-link><br>
   </section>
 </template>
 
