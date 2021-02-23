@@ -6,7 +6,8 @@
     <pre>[{{now}}]</pre>
     <hr>
     <router-link to="/other">Go to Other</router-link><br>
-    <router-link to="/transition01">トランジション サンプル01</router-link>
+    <router-link to="/transition01">トランジション サンプル01</router-link><br>
+    <router-link to="/event01">イベント サンプル01</router-link><br>
   </section>
 </template>
 
